@@ -15,7 +15,7 @@
 
 </div>
 
-## 📖 About
+## About
 I am a Python Developer and Machine Learning Enthusiast focused on building intelligent backend systems, clean automation pipelines, and data-driven microservices.
 
 * **Python Core:** Deeply focused on writing clean, optimized Python code, building RESTful APIs, and working with relational database environments.
@@ -24,7 +24,7 @@ I am a Python Developer and Machine Learning Enthusiast focused on building inte
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### **Languages**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
