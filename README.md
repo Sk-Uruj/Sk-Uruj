@@ -58,12 +58,3 @@ I am a Python Developer and Machine Learning Enthusiast focused on building inte
 
 ---
 
-## ⚙️ Core Focus
-
-```python
-developer = {
-    "expertise": ["Python Backend Systems", "Machine Learning Pipelines", "Data Extraction"],
-    "learning_path": ["Advanced DSA", "System Design", "Scalable REST APIs"],
-    "collaboration": ["Hackathons", "Open Source Contributions", "Backend Engineering"],
-    "philosophy": "Writing clean, execution-driven, and highly optimized backend code."
-}
