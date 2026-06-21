@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Uruj Shaikh 👋
+# Uruj Shaikh 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA116&center=true&vCenter=true&width=500&lines=Python+Developer;Machine+Learning+Enthusiast;Data+Structures+%26+Algorithms;Contributing+to+open+source)](https://git.io/typing-svg)
 
@@ -13,12 +13,12 @@
 
 </div>
 
-## 📖 About Me
+## About
 I am a Python Developer and Machine Learning Enthusiast focused on building intelligent backend systems, clean automation pipelines, and data-driven microservices.
 
-*   🐍 **Python Core:** Deeply focused on writing clean, optimized Python code, building RESTful APIs, and working with relational database environments.
-*   🤖 **Machine Learning & Data:** Experienced in building, training, and testing machine learning models (like Random Forests) to process complex tabular datasets, engineering text-preprocessing scripts, and running structural validations with Pandas and Scikit-Learn.
-*   🏆 **Execution-Driven:** 4x Hackathon Top-3 Winner who uses Python to rapidly prototype and ship working software ecosystems under intense timelines.
+*   **Python Core:** Deeply focused on writing clean, optimized Python code, building RESTful APIs, and working with relational database environments.
+*   **Machine Learning & Data:** Experienced in building, training, and testing machine learning models (like Random Forests) to process complex tabular datasets, engineering text-preprocessing scripts, and running structural validations with Pandas and Scikit-Learn.
+*   **Execution-Driven:** 4x Hackathon Top-3 Winner who uses Python to rapidly prototype and ship working software ecosystems under intense timelines.
 
 ---
 
