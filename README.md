@@ -16,7 +16,7 @@
 </div>
 
 ## About
-I am a Python Developer and Machine Learning Enthusiast focused on building intelligent backend systems, clean automation pipelines, and data-driven microservices.
+I am a Developer and Machine Learning Enthusiast focused on building intelligent backend systems, clean automation pipelines, and data-driven microservices.
 
 * **Python Core:** Deeply focused on writing clean, optimized Python code, building RESTful APIs, and working with relational database environments.
 * **Machine Learning & Data:** Experienced in building, training, and testing machine learning models (like Random Forests) to process complex tabular datasets, engineering text-preprocessing scripts, and running structural validations with Pandas and Scikit-Learn.
