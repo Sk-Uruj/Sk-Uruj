@@ -1,6 +1,6 @@
 <div align="center">
 
-# Uruj Shaikhhh
+# Uruj Shaikh
 
 ### Python Developer | Machine Learning Enthusiast 
 
