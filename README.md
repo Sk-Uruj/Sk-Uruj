@@ -2,7 +2,7 @@
 
 # Uruj Shaikh
 
-### Python Developer | Machine Learning Enthusiast 
+### Python Developer | Machine Learning Enthusias
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA116&center=true&vCenter=true&width=500&lines=Python+Developer;Machine+Learning+Enthusiast;Data+Structures+%26+Algorithms;Contributing+to+open+source)](https://git.io/typing-svg)
 
